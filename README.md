@@ -14,6 +14,9 @@
 - 프레임워크 : pytorch
 
 # 모델 구조
+![1](https://github.com/Trouvler/MemAE_AD/blob/main/image/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%97%90%EC%9D%B4%EB%93%9C_12.jpg?raw=true)
+![2](https://github.com/Trouvler/MemAE_AD/blob/main/image/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%97%90%EC%9D%B4%EB%93%9C_13.jpg?raw=true)
+![3](https://github.com/Trouvler/MemAE_AD/blob/main/image/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C_%EC%97%90%EC%9D%B4%EB%93%9C_16.jpg?raw=true)
 
 
 # Reference
