@@ -1,5 +1,4 @@
 # MemAE_AD
-
 #### 개발자
 - 인공지능 모델링 성승제 : git(https://github.com/Trouvler)
 - EDA 송지혜 : git()
