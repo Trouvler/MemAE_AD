@@ -9,13 +9,14 @@
 
 * 본 프로젝트의 모델은 단순한 구조와 비지도 학습으로 빠른 속도와 정확도를 가져 중소 제조 기업의 다양한 공정에 적용할 수 있으며 이를 통해 중소 제조 기업은 공정 관리의 효율성을 증대시키고, 사고 예방, 수익성 증가 등으로 이어질 것으로 기대됨  
 
-
-# APP
 # 개발환경
 - 개발언어 : python
 - 프레임워크 : pytorch
 
+# 모델 구조
+
+
 # Reference
-- 1. Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).
-- 2. Gong, Dong, et al. "Memorizing normality to detect anomaly: Memory-augmented deep autoencoder for unsupervised anomaly detection." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
-- 3. Audibert, Julien, et al. "Usad: Unsupervised anomaly detection on multivariate time series." Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining. 2020.
+1. Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).
+2. Gong, Dong, et al. "Memorizing normality to detect anomaly: Memory-augmented deep autoencoder for unsupervised anomaly detection." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
+3. Audibert, Julien, et al. "Usad: Unsupervised anomaly detection on multivariate time series." Proceedings of the 26th ACM SIGKDD international conference on knowledge discovery & data mining. 2020.
